@@ -1,4 +1,4 @@
-# CVPR2021_PDNet
+# AAAI2024_PCDNet
 
 ## Exploiting Polarized Material Cues for Robust Car Detection
 
