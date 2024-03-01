@@ -46,11 +46,10 @@ Please cite our paper if you find it is useful:
 - Pytorch 1.12.1
 - Torchvision 0.13.1
 - CUDA 11.6.0
-- numpy
-- Pillow
-- PyYAML
-- scipy
-- tqdm
+- numpy 1.24.3
+- Pillow 8.2.0
+- PyYAML 6.0.1
+- tqdm 4.65.0
 
 ### Experiments
 **Test**: Download pre-trained ``PCDNet.pt`` at 
