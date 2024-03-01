@@ -1,0 +1,9 @@
+train: ./dataset/rgbpc/train
+val: ./dataset/rgbpc/test
+test: ./dataset/rgbpc/test
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'car' ]
