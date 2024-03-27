@@ -51,6 +51,9 @@ Please cite our paper if you find it is useful:
 - PyYAML 6.0.1
 - tqdm 4.65.0
 
+### Dataset
+Both training set and testing set can be obtained via form request at [here](http://rgbp.dluticcd.com/).
+
 ### Experiments
 **Test**: Download pre-trained ``PCDNet.pt`` at 
 [[Baidu Netdisk](https://pan.baidu.com/s/1Bjb6IeQuhbt1zvypJZ-cXQ?pwd=ujzb), 
