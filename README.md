@@ -5,7 +5,7 @@
 [Wen Dong](https://wind1117.github.io/), [Haiyang Mei](https://mhaiyang.github.io/), 
 Ziqi Wei, Ao Jin, Sen Qiu, Qiang Zhang, [Xin Yang](https://xinyangdut.github.io/)
 
-[[Paper](https://arxiv.org/abs/2401.02606)]
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27922)]
 [[Project Page](https://wind1117.github.io/publication/2024-AAAI-PolarCar)]
 
 ### Abstract
